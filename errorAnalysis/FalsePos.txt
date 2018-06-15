@@ -1,0 +1,31 @@
+Cancer immunotherapy using dendritic cell-derived exosomes.
+The exosome pathway in K562 cells is regulated by Rab11.
+Antigen-presenting cell exosomes are protected from complement-mediated lysis by expression of CD55 and CD59.
+Exosomes as a tumor vaccine: enhancing potency through direct loading of antigenic peptides.
+Exosomes as potent cell-free peptide-based vaccine. II. Exosomes in CpG adjuvants efficiently prime naive Tc1 lymphocytes leading to tumor rejection.
+Exosome-dependent trafficking of HSP70: a novel secretory pathway for cellular stress proteins.
+Viral particles of the endogenous retrovirus ZAM from Drosophila melanogaster use a pre-existing endosome/exosome pathway for transfer to the oocyte.
+Malignant ascites-derived exosomes of ovarian carcinoma patients contain CD24 and EpCAM.
+Dendritic cells derived from bone marrow cells fail to acquire and present major histocompatibility complex antigens from other dendritic cells.
+Activated T cells recruit exosomes secreted by dendritic cells via LFA-1.
+Can urinary exosomes act as treatment response markers in prostate cancer?
+Exosomes are an effective vaccine against congenital toxoplasmosis in mice.
+MHC II in dendritic cells is targeted to lysosomes or T cell-induced exosomes via distinct multivesicular body pathways.
+KSRP-PMR1-exosome association determines parathyroid hormone mRNA levels and stability in transfected cells.
+Extra-cellular release and blood diffusion of BART viral micro-RNAs produced by EBV-infected nasopharyngeal carcinoma cells.
+Release of exosomes from differentiated neurons and its regulation by synaptic glutamatergic activity.
+Oligodendrocytes secrete exosomes containing major myelin and stress-protective proteins: Trophic support for axons?
+Loss of EpCAM expression in breast cancer derived serum exosomes: role of proteolytic cleavage.
+Insulinoma-released exosomes or microparticles are immunostimulatory and can activate autoreactive T cells spontaneously developed in nonobese diabetic mice.
+Tumor cell cross talk with tumor-associated leukocytes leads to induction of tumor exosomal fibronectin and promotes tumor progression.
+Transfer of vesicles from schwann cells to axons: a novel mechanism of communication in the peripheral nervous system.
+Mesenchymal stem cell secreted vesicles provide novel opportunities in (stem) cell-free therapy.
+ exosomes.
+Enabling a robust scalable manufacturing process for therapeutic exosomes through oncogenic immortalization of human ESC-derived MSCs.
+Loss of EpCAM expression in breast cancer derived serum exosomes: role of proteolytic cleavage.
+Insulinoma-released exosomes or microparticles are immunostimulatory and can activate autoreactive T cells spontaneously developed in nonobese diabetic mice.
+Transfer of vesicles from schwann cells to axons: a novel mechanism of communication in the peripheral nervous system.
+Mesenchymal stem cell secreted vesicles provide novel opportunities in (stem) cell-free therapy.
+Cancer cells induced to express mesenchymal phenotype release exosome-like extracellular vesicles carrying tissue factor.
+RRP41L, a putative core subunit of the exosome, plays an important role in seed germination and early seedling growth in Arabidopsis.
+Exosomes are natural carriers of exogenous siRNA to human cells in vitro.

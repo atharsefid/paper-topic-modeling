@@ -1,0 +1,30 @@
+
+Malignant effusions and immunogenic tumour-derived exosomes.
+Facilitation of mRNA deadenylation and decay by the exosome-bound, DExH protein RHAU.
+The immunogenicity of dendritic cell-derived exosomes.
+More efficient induction of HLA-A*0201-restricted and carcinoembryonic antigen (CEA)-specific CTL response by immunization with exosomes prepared from heat-stressed CEA-positive tumor cells.
+Tolerosome-induced oral tolerance is MHC dependent.
+Epigenetic transfer of metastatic activity by uptake of highly metastatic B16 melanoma cell-released exosomes.
+Enhanced induction of dendritic cell maturation and HLA-A*0201-restricted CEA-specific CD8(+) CTL response by exosomes derived from IL-18 gene-modified CEA-positive tumor cells.
+Specific isolation of placenta-derived exosomes from the circulation of pregnant women and their immunoregulatory consequences.
+T84-intestinal epithelial exosomes bear MHC class II/peptide complexes potentiating antigen presentation by dendritic cells.
+Exosome-mediated transfer of mRNAs and microRNAs is a novel mechanism of genetic exchange between cells.
+Redox-signaling transmitted in trans to neighboring cells by melanoma-derived TNF-containing exosomes.
+Exosomes released from infected macrophages contain Mycobacterium avium glycopeptidolipids and are proinflammatory.
+Liver cell-derived microparticles activate hedgehog signaling and alter gene expression in hepatic endothelial cells.
+Cytomegalovirus-infected human endothelial cells can stimulate allogeneic CD4+ memory T cells by releasing antigenic exosomes.
+Noncytotoxic suppression of human immunodeficiency virus type 1 transcription by exosomes secreted from CD8+ T cells.
+The role of cbl family of ubiquitin ligases in gastric cancer exosome-induced apoptosis of Jurkat T cells.
+Cell-produced alpha-synuclein is secreted in a calcium-dependent manner by exosomes and impacts neuronal survival.
+New mechanism for Notch signaling to endothelium at a distance by Delta-like 4 incorporation into exosomes.
+TLR2-mediated expansion of MDSCs is dependent on the source of tumor exosomes.
+αB crystallin is apically secreted within exosomes by polarized human retinal pigment epithelium and provides neuroprotection to adjacent cells.
+Biochemical and biologic characterization of exosomes and microvesicles as facilitators of HIV-1 infection in macrophages.
+Leukemia cell to endothelial cell communication via exosomal miRNAs.
+Docetaxel-resistance in prostate cancer: evaluating associated phenotypic changes and potential for resistance transfer via exosomes.
+The origin, function, and diagnostic potential of RNA within extracellular vesicles present in human biological fluids.
+Cardioprotection by remote ischemic preconditioning of the rat heart is mediated by extracellular vesicles.
+Lipid synthesis is promoted by hypoxic adipocyte-derived exosomes in 3T3-L1 cells.
+Syncytin proteins incorporated in placenta exosomes are important for cell uptake and show variation in abundance in serum exosomes from patients with preeclampsia.
+Interspecies communication between plant and mouse gut host cells through edible plant derived exosome-like nanoparticles.
+Exosome-derived miRNAs and ovarian carcinoma progression.
